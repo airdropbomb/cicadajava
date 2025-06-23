@@ -1,0 +1,12 @@
+[
+  {
+    "accountId": "user1",
+    "authToken": "your-auth-token-1",
+    "cookies": "your-cookies-1"
+  },
+  {
+    "accountId": "user2",
+    "authToken": "your-auth-token-2",
+    "cookies": "your-cookies-2"
+  }
+]
