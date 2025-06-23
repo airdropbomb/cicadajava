@@ -1,0 +1,15 @@
+{
+  "name": "cicada-campaign-bot",
+  "version": "1.0.0",
+  "description": "A bot for automating tasks in Cicada Finance campaign for multiple accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "author": "ADB NODE",
+  "license": "ISC"
+}
